@@ -1,12 +1,4 @@
-/*  n c r = n!/(r (n-r)! )
-
-            pascal triangle
-                        1
-                    1      1
-                  1     2     1
-                1   3      3     1
-              1   4    6      4    1
-            1   5   10    10    5    1
+/*  tower of hanoi
 */
 
 #include "F:\ANMOL\studies\c coding\c++\udemy\1.RECURSION\c++\header.h"
